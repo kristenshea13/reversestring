@@ -15,8 +15,17 @@ namespace reversestring
 
             string reverseStr = new string(helloWorld);
 
+            Console.WriteLine(reverseStr);
 
+            Console.ReadLine();
 
         }
+
+        
+
+
     }
+
+    
+
 }
